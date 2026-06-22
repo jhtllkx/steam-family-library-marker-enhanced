@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '95583bff-92d1-4d53-aa19-e670111e9243'
-  PropagateID: '95583bff-92d1-4d53-aa19-e670111e9243'
-  ReservedCode1: 'b01c2303-270d-4b5f-a77c-b478737de223'
-  ReservedCode2: 'b01c2303-270d-4b5f-a77c-b478737de223'
----
 
 # Steam 家庭库已有游戏标记（增强版）
 
